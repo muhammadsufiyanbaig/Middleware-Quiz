@@ -34,7 +34,7 @@ This project is a full-stack Quiz Application developed using React.js and Tailw
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/quiz-application.git
+   git clone [https://github.com/your-username/quiz-application.git](https://github.com/muhammadsufiyanbaig/Middleware-Quiz)
    cd quiz-application
    ```
 
